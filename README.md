@@ -5,15 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Fresher;Cloud+Infrastructure+%7C+Kubernetes;CI%2FCD+Automation+%7C+DevSecOps;Terraform+%7C+Docker+%7C+Linux;Building+Production-Ready+DevOps+Skills" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya123-ui&label=Profile+Views&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aditya123-ui/aditya123-ui/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 ## 🧭 Professional Summary
