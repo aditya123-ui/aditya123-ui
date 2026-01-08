@@ -10,6 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=aditya123-ui&label=Profile+Views&style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aditya123-ui/aditya123-ui/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## 🧭 Professional Summary
