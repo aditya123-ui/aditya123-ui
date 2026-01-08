@@ -1,41 +1,120 @@
 <h1 align="center">Hi 👋, I'm Aditya Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya123-ui&label=Profile%20views&color=0e75b6&style=flat" alt="aditya123-ui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya123-ui" alt="aditya123-ui" /></a> </p>
-
-- 🌱 I’m currently learning **Aws Cloud Solution Architect Associate**
-
-- 📫 How to reach me **gamingicardo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya das" height="30" width="40" /></a>
-<a href="https://fb.com/aditya das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya das" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_aditya_igs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_aditya_igs" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Fresher;Cloud+%26+Kubernetes+Enthusiast;Terraform+%7C+CI%2FCD+%7C+DevSecOps;Automating+Everything+I+Can" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya123-ui&show_icons=true&locale=en&layout=compact" alt="aditya123-ui" /></p>
+## 👨‍💻 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya123-ui&show_icons=true&locale=en" alt="aditya123-ui" /></p>
+🎯 **DevOps Fresher** actively building real-world, production-style DevOps projects  
+☁️ Passionate about **Cloud, Automation, CI/CD & Kubernetes**  
+🔐 Strong interest in **DevSecOps & Cloud Security**  
+📈 Focused on **scalable, reliable & monitored systems**  
+🧠 Continuous learner with hands-on labs and self-driven projects  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya123-ui&" alt="aditya123-ui" /></p>
+> 💡 I may be a fresher, but my projects reflect **industry-level DevOps practices**.
 
-<!--
-**aditya123-ui/aditya123-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud & IaC  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🐳 Containers & Kubernetes  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🔁 CI/CD & GitOps  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 🔐 DevSecOps  
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
+
+### 📊 Monitoring  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 💻 OS & Scripting  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+## 🚀 Hands-On Projects (Recruiter Focused)
+
+### 🔹 End-to-End DevSecOps Pipeline  
+**Terraform + Jenkins + Docker + GKE + ArgoCD**
+
+✔ Infrastructure provisioning using Terraform  
+✔ CI/CD pipelines with Jenkins & GitHub Webhooks  
+✔ Docker image scanning with **Trivy**  
+✔ Code quality gates via **SonarQube**  
+✔ Dependency vulnerability scan (OWASP)  
+✔ GitOps deployment using **ArgoCD**  
+✔ Monitoring using **Prometheus & Grafana**  
+
+> 📌 *Designed to simulate real production DevOps workflows*
+
+---
+
+### 🔹 Kubernetes Production Lab  
+- Secure Kubernetes cluster (RBAC, namespaces)  
+- Ingress + LoadBalancer  
+- Autoscaling (HPA)  
+- Monitoring & alerting  
+- GitOps deployment model  
+
+---
+
+### 🔹 System & Windows Automation  
+- PowerShell automation  
+- AppLocker policies  
+- Rollback & recovery scripts  
+- Windows 11 / Server hardening  
+
+---
+
+## 📊 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 🎯 Career Objective  
+
+🚀 To start my career as a **DevOps Engineer**, contributing to automation, cloud infrastructure, CI/CD pipelines, and secure deployments while continuously learning and growing.
+
+---
+
+## 📫 Contact  
+
+- 💼 **LinkedIn**: https://www.linkedin.com/in/YOUR_PROFILE  
+- 📧 **Email**: your.email@example.com  
+
+---
+
+### ⭐ If you’re a recruiter or hiring manager —  
+📌 Please check my **pinned repositories** for real DevOps implementations.
