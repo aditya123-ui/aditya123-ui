@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Fresher;Cloud+Infrastructure+%7C+Kubernetes;CI%2FCD+Automation+%7C+DevSecOps;Terraform+%7C+Docker+%7C+GKE;Building+Production-Grade+DevOps+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Fresher;Cloud+Infrastructure+%7C+Kubernetes;CI%2FCD+Automation+%7C+DevSecOps;Terraform+%7C+Docker+%7C+GKE;Building+Production-Ready+Mindset" />
   </a>
 </p>
 
@@ -14,54 +14,65 @@
 
 ## 🧭 Professional Summary
 
-**DevOps Fresher** with hands-on exposure to **cloud platforms, CI/CD automation, containerization, and monitoring tools**.  
-Focused on **learning production-grade DevOps practices**, automation-first mindset, and continuous improvement.
+**DevOps Fresher** with strong foundational knowledge in **cloud platforms, CI/CD pipelines, containerization, infrastructure automation, and monitoring**.  
+Passionate about **learning real-world DevOps workflows**, automation-first thinking, and reliability-driven engineering.
 
 ✔ Infrastructure as Code fundamentals  
-✔ CI/CD & GitHub Actions exposure  
-✔ Cloud & Kubernetes basics  
+✔ CI/CD pipelines & GitHub Actions  
+✔ Containers & Kubernetes basics  
 ✔ Security-aware (DevSecOps mindset)  
+✔ Linux & system-level understanding  
 
-🎯 Actively seeking **DevOps / Cloud / SRE Trainee** roles.
-
----
-
-## 🌐 Socials
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasaditya757@gmail.com)
+🎯 **Actively seeking** *DevOps / Cloud / SRE Trainee* opportunities.
 
 ---
 
-## 💻 Tech Stack
-
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya123-ui&theme=blue_navy&hide_border=false" />
+  <a href="mailto:dasaditya757@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Technology Stack
+
+### 🖥️ Operating Systems & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔁 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 🔐 DevSecOps & Observability
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya123-ui&show_icons=true&theme=blue_navy&hide_border=false" />
 </p>
 
 <p align="center">
@@ -74,7 +85,7 @@ Focused on **learning production-grade DevOps practices**, automation-first mind
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aditya123-ui&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
@@ -82,7 +93,15 @@ Focused on **learning production-grade DevOps practices**, automation-first mind
 
 ---
 
-## ✍️ Random Dev Quote
+## 🟡 Pac-Man Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aditya123-ui/aditya123-ui/output/pacman-contribution-graph.svg" />
+</p>
+
+---
+
+## ✍️ Daily Dev Insight
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -90,7 +109,7 @@ Focused on **learning production-grade DevOps practices**, automation-first mind
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🔝 Contribution Overview
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=aditya123-ui&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -98,18 +117,18 @@ Focused on **learning production-grade DevOps practices**, automation-first mind
 
 ---
 
-## 📌 How I Work
+## 📌 How I Work (Engineering Mindset)
 
-- 🔁 Automate first, manual last  
-- 🔐 Security-aware mindset  
-- 📊 Monitoring matters  
-- 🧠 Continuous learner  
+- 🔁 Automation before repetition  
+- 🔐 Security is part of design  
+- 📊 Observability is non-negotiable  
+- 🧠 Learn → Build → Improve → Repeat  
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-To start and grow as a **DevOps Engineer**, contributing to cloud infrastructure, CI/CD pipelines, and reliable systems while continuously learning from real-world environments.
+To begin my professional journey as a **DevOps Engineer**, contributing to cloud automation, CI/CD systems, and infrastructure reliability while continuously strengthening my skills in real-world environments.
 
 ---
 
@@ -117,36 +136,4 @@ To start and grow as a **DevOps Engineer**, contributing to cloud infrastructure
   <img src="https://visitcount.itsvg.in/api?id=aditya123-ui&icon=0&color=0" />
 </p>
 
-<!-- Proudly customized & optimized -->
-
----
-
-## 🟡 Pac-Man Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 📌 Work Philosophy
-
-- 🔁 Automate wherever possible  
-- 🔐 Security by default, not optional  
-- 📊 Observability is mandatory  
-- 🧠 Continuous learning mindset  
-
----
-
-## 🎯 Career Objective
-
-To begin my professional journey as a **DevOps Engineer**, contributing to cloud automation, CI/CD systems, and infrastructure reliability while continuously improving my skills.
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE  
-- 📧 Email: your.email@example.com  
-
-> ⭐ Recruiters & hiring managers — please explore my repositories to understand my technical depth and learning journey.
+<!-- Clean • Professional • Recruiter-Optimized -->
